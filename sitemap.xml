@@ -6,7 +6,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://kinjobales.co.ke/</loc>
+    <loc>https://kinjobales.shop/</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
   <!-- Shop (All Products) -->
   <url>
-    <loc>https://kinjobales.co.ke/#shop</loc>
+    <loc>https://kinjobales.shop/#shop</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.95</priority>
@@ -22,7 +22,7 @@
 
   <!-- Collections -->
   <url>
-    <loc>https://kinjobales.co.ke/collections</loc>
+    <loc>https://kinjobales.shop/collections</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -30,7 +30,7 @@
 
   <!-- Contact -->
   <url>
-    <loc>https://kinjobales.co.ke/#contact</loc>
+    <loc>https://kinjobales.shop/#contact</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -38,84 +38,84 @@
 
   <!-- Product Categories -->
   <url>
-    <loc>https://kinjobales.co.ke/category/bedsheets</loc>
+    <loc>https://kinjobales.shop/category/bedsheets</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/bathrobes</loc>
+    <loc>https://kinjobales.shop/category/bathrobes</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.88</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/carpets</loc>
+    <loc>https://kinjobales.shop/category/carpets</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.88</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/duvet-covers</loc>
+    <loc>https://kinjobales.shop/category/duvet-covers</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.87</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/curtains-and-accessories</loc>
+    <loc>https://kinjobales.shop/category/curtains-and-accessories</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.87</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/corridor-runners</loc>
+    <loc>https://kinjobales.shop/category/corridor-runners</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/cooking-pots</loc>
+    <loc>https://kinjobales.shop/category/cooking-pots</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/bottles-and-thermos</loc>
+    <loc>https://kinjobales.shop/category/bottles-and-thermos</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.84</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/cups</loc>
+    <loc>https://kinjobales.shop/category/cups</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.83</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/decors</loc>
+    <loc>https://kinjobales.shop/category/decors</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.83</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/dispensers</loc>
+    <loc>https://kinjobales.shop/category/dispensers</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.82</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/category/diapers</loc>
+    <loc>https://kinjobales.shop/category/diapers</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.82</priority>
@@ -123,42 +123,42 @@
 
   <!-- SEO Landing Pages -->
   <url>
-    <loc>https://kinjobales.co.ke/bedsheets-nairobi</loc>
+    <loc>https://kinjobales.shop/bedsheets-nairobi</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/carpets-nairobi</loc>
+    <loc>https://kinjobales.shop/carpets-nairobi</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/home-essentials-kenya</loc>
+    <loc>https://kinjobales.shop/home-essentials-kenya</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.78</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/kitchenware-nairobi</loc>
+    <loc>https://kinjobales.shop/kitchenware-nairobi</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.78</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/home-decor-kenya</loc>
+    <loc>https://kinjobales.shop/home-decor-kenya</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.76</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/whatsapp-order-nairobi</loc>
+    <loc>https://kinjobales.shop/whatsapp-order-nairobi</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
@@ -166,21 +166,21 @@
 
   <!-- Info Pages -->
   <url>
-    <loc>https://kinjobales.co.ke/delivery-and-returns</loc>
+    <loc>https://kinjobales.shop/delivery-and-returns</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/order-tracking</loc>
+    <loc>https://kinjobales.shop/order-tracking</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.65</priority>
   </url>
 
   <url>
-    <loc>https://kinjobales.co.ke/about</loc>
+    <loc>https://kinjobales.shop/about</loc>
     <lastmod>2025-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.60</priority>
