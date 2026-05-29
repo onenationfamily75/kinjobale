@@ -1,15 +1,9 @@
 User-agent: *
 Allow: /
 
-# Block cart, checkout and private paths
-Disallow: /cart/
-Disallow: /checkout/
-Disallow: /admin/
-Disallow: /api/
-Disallow: /order-confirm/
 
 # Crawl delay
-Crawl-delay: 10
+Crawl-delay: 00
 
 # Sitemap
 Sitemap: https://kinjobales.co.ke/sitemap.xml
