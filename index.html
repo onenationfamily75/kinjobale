@@ -287,8 +287,8 @@
       <div>
         <h5>Help</h5>
         <a href="#how">How to order</a>
-        <a href="https://www.kinjobales.com/pages/delivery-and-returns" target="_blank" rel="noopener">Delivery &amp; returns</a>
-        <a href="https://www.kinjobales.com/orders/lookup" target="_blank" rel="noopener">Order tracking</a>
+        <a href="https://kinjobales.shop/pages/delivery-and-returns" target="_blank" rel="noopener">Delivery &amp; returns</a>
+        <a href="https://kinjobales.shop/orders/lookup" target="_blank" rel="noopener">Order tracking</a>
       </div>
       <div>
         <h5>Contact</h5>
@@ -375,8 +375,8 @@
           <select id="fPay">
             <option>M-Pesa (Send Money)</option>
             <option>Airtel Money</option>
-            <option>Pay on delivery (cash)</option>
-            <option>Bank transfer</option>
+            <option>Paybil)</option>
+            <option>Bank transfer/paybill</option>
           </select>
         </div>
         <div class="field full">
@@ -388,9 +388,9 @@
 
     <div class="pay-card">
       <div class="pay-label">Pay with M-Pesa / Airtel Money</div>
-      <div class="pay-num">+254 786 781 665</div>
+      <div class="paybil</div>
     </div>
-    <p class="pay-note">After paying (or if you choose pay on delivery), tap <strong>Confirm on WhatsApp</strong>. We reply with delivery time and courier details.</p>
+    <p class="pay-note">After paying (or if you choose paybill), tap <strong>Confirm on WhatsApp</strong>. We reply with delivery time and courier details.</p>
 
     <div class="modal-actions">
       <button type="button" class="btn-cancel" id="modalCancel">Back to cart</button>
@@ -445,7 +445,7 @@ function card(p, idx){
       <div class="product-price"><span class="price-now">${fmt(p.p)}</span>${p.o ? `<span class="price-old">${fmt(p.o)}</span>` : ''}</div>
       <div class="card-actions">
         <button class="btn-add" data-idx="${idx}">Add to cart</button>
-        <a class="btn-view" href="${esc(p.u)}" target="_blank" rel="noopener">View</a>
+        <a class="btn-cart" href="${esc(p.u)}" target="_blank" rel="noopener">cart</a>
       </div>
     </div>
   </article>`;
@@ -618,7 +618,7 @@ $('waConfirm').onclick = () => {
   L.push(`Payment method: ${$('fPay').value}`);
   if ($('fNotes').value.trim()) L.push(`Notes: ${$('fNotes').value.trim()}`);
   L.push('');
-  L.push(`Please confirm my order and delivery. Paying to ${PHONE}.`);
+  L.push(`Please confirm my order and delivery. Paying to ${paybill}.`);
   const url = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(L.join('\n'))}`;
   window.open(url, '_blank', 'noopener');
   toast('Opening WhatsApp…');
